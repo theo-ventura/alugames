@@ -1,0 +1,1 @@
+É um exemplo de um site de aluguel de *boardgames* (jogos de tabuleiro), nada de muito especial.
